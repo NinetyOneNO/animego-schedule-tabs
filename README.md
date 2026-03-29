@@ -7,7 +7,7 @@ Tampermonkey скрипт для горизонтального расписан
 ## 📦 Установка
 
 1. Установите [Tampermonkey](https://www.tampermonkey.net/)
-2. Нажмите [Установить скрипт]([https://raw.githubusercontent.com/ninetyoneno/animego-schedule-tabs/main/animego-schedule.user.js](https://github.com/NinetyOneNO/animego-schedule-tabs/blob/main/AnimeGO%20Schedule%20Tabs-1.0.user.js))
+2. Нажмите [Установить скрипт](https://raw.githubusercontent.com/ninetyoneno/animego-schedule-tabs/main/animego-schedule.user.js)
 3. Обновите страницу animego.me
 
 ## ✨ Возможности
